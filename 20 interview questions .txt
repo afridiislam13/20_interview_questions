@@ -1,0 +1,59 @@
+1. Question: What are the primitive data types in most programming languages?
+Answer: Primitive data types include integers, floating-point numbers, characters, booleans, and sometimes additional types like bytes or short integers.
+
+2. Question: What is the difference between integers and floating-point numbers?
+Answer: Integers are whole numbers without decimal points, while floating-point numbers include decimal values.
+
+3. Question: Explain the concept of type casting or type conversion.
+Answer: Type casting is the process of converting a value from one data type to another, often to perform operations that require compatible types.
+
+4. Question: Explain the difference between a list and a tuple in Python.
+Answer: Lists are mutable (can be modified) ordered collections, while tuples are immutable ordered collections.
+
+5. Question: Differentiate between unary, binary, and ternary operators.
+Answer: Unary operators work with a single operand, binary operators work with two operands, and ternary operators work with three operands.
+
+6. Question: What is the purpose of the "None" value in Python?
+Answer: "None" is a special value representing the absence of a value or a null value.
+
+7. Question: Explain the "in" operator in Python with an example.
+Answer: The "in" operator checks if a value is present in a sequence, like a list or string.
+
+8. Question: What is the purpose of an 'if' statement?
+Answer: An 'if' statement is used to execute a block of code if a given condition is true.
+
+9. Question: How can you represent multiple conditions using 'else if'?
+Answer: 'else if' statements allow you to check multiple conditions sequentially and execute different blocks of code based on the first true condition encountered.
+
+10. Question: What does the "pass" statement do within an "if" block?
+Answer: The "pass" statement is a placeholder that does nothing. It's often used when the code block is syntactically required but no action is needed.
+
+11. Question: What is the purpose of the "assert" statement in Python?
+Answer: The "assert" statement is used to check if a given condition is true, raising an exception if the condition is false.
+
+12. Question: Explain the difference between "while" and "for" loops in Python.
+Answer: "while" loops continue as long as a condition is true, whereas "for" loops iterate over a sequence (like a list or range).
+
+13. Question: How do you use the "break" statement to exit a loop prematurely?
+Answer: The "break" statement is used to immediately exit the current loop and continue with the next code block outside the loop.
+
+14. Question: What is the purpose of the "continue" statement in a loop?
+Answer: The "continue" statement is used to skip the current iteration of a loop and move to the next one.
+
+15. Question: Explain the concept of an "iterator" in Python.
+Answer: An iterator is an object that generates values one at a time, often used in "for" loops.
+
+16. Question: How do you define a function in Python?
+Answer: A function is defined using the "def" keyword, followed by the function name, parameters, and a colon.
+
+17. Question: What is the difference between "return" and "print" in the context of functions?
+Answer: "return" is used to send a value back from a function, while "print" outputs information to the console.
+
+18. Question: Explain the concept of "default arguments" in Python functions.
+Answer: Default arguments are values set in a function's parameter list, which are used if the corresponding argument is not provided during the function call.
+
+19. Question: How can you create a lambda function in Python?
+Answer: A lambda function is created using the "lambda" keyword, providing a concise way to create small, anonymous functions.
+
+20. Question: How can you make a variable defined inside a function accessible outside it?
+Answer: By declaring the variable as global within the function, you can make it accessible in the global scope.
